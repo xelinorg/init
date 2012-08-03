@@ -4,3 +4,6 @@ distributed messaging
     SW build with open source software
   primitive protocol encaptulation
     lowlest level of abstraction for the message object 
+  identity managment and security
+    privacy and integrity of communications
+    governance implementation
