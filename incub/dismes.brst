@@ -1,0 +1,6 @@
+distributed messaging
+  software-hardware
+    HW build with standard parts like personal computers and various communication gateways (gsm/isdn/pstn/sat modems)
+    SW build with open source software
+  primitive protocol encaptulation
+    lowlest level of abstraction for the message object 
