@@ -1,9 +1,24 @@
-distributed messaging
-  software-hardware
+DIStributed MESsaging
+
+  .software-hardware
     HW build with standard parts like personal computers and various communication gateways (gsm/isdn/pstn/sat modems)
     SW build with open source software
-  primitive protocol encaptulation
+  .primitive protocol encaptulation
     lowlest level of abstraction for the message object 
-  identity managment and security
+  .identity managment and security
     privacy and integrity of communications
     governance implementation
+
+More on the abstract design...
+
+  .DR > Distributed Registration
+  .DI > Distributed Interaction
+  .HHI > Human 2 Human Interaction
+  .HCI > Human 2 Computer Interaction
+  .CHI > Computer 2 Human Interaction
+  .CCI > Computer 2 Computer Interaction
+
+Cycles of Trust
+  Trust Nobody
+  Sort CoT 
+  Extended CoT 
